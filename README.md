@@ -4,12 +4,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+
 </p>
 
 - 👨‍💻 I’m currently studying for a Full Stack Programming Technician degree.
 - 📚 I am currently learning and improving my skills with the technologies I already know while also incorporating new ones.
-- 🎯 Future Goals: I am eager to learn whatever is needed, especially when it involves a challenge.
+- 🎯 Future Goals: I am eager to learn everything necessary to fully dedicate myself to this field, especially when it involves a challenge.
   
 - 📫 Social links
 <p>
